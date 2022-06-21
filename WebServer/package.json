@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
+  }
+    "publishConfig": {
+    "registry": "http://3.109.59.235:8081/repository/nodejaapp/"
   },
   "author": "harry",
   "license": "ISC",
